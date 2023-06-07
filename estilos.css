@@ -1,0 +1,11 @@
+body, html{height: 100%}
+
+.barra{
+    background-color: lightgreen;
+    width:100%;
+    border: 2px solid black;
+}
+
+.bloco1{background-color:white;
+    width:90%;
+    float:left;}
